@@ -27,8 +27,3 @@ float((8+2)*6-1)
 59.0
 
 Answers for Exercise 1
-
-git add output.txt
-git add hello_world.py
-git commit -m "lab0"
-git push
